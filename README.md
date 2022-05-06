@@ -1,6 +1,7 @@
 # bankofreact2
 
-Group member(s): Shezan Alam 
+Group member(s): Shezan Alam Github username: shezalam29
+
 Sources: https://github.com/mtlynch3/router-example
  
  To run, download repository, navigate to project directory run: 
